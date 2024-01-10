@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(96, 117, 143);
+    color: white;
+}
+section{
+    /* width: 50%; */
+    padding: 10px;
+    margin: auto;
+    max-width: 1000px;
+    border: 1px solid white;
+    border-radius: 10px;
+    
+}
